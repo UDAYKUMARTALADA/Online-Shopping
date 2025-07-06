@@ -10,3 +10,4 @@ A front-end e-commerce showcase built with HTML, JavaScript, and Bootstrap 4. 
 - **Product Cards:** Displays product image, title, price, rating in Bootstrap cards.
 - **In-Memory Cart:** Add items → updates badge count; view cart summary in modal list.
 - **Modal Cart UI:** Cart preview with thumbnail and price, easily extendable.
+        ![](online_shop.png)
