@@ -2,6 +2,7 @@
 # 🛍️ Online Shopping Demo
 
 A front-end e-commerce showcase built with HTML, JavaScript, and Bootstrap 4. Uses FakeStoreAPI for product data.
+
 ![](online shopping.png)
 
 ## ✅ Key Features
