@@ -1,10 +1,8 @@
 
 # 🛍️ Online Shopping Demo
 
-A front-end e-commerce showcase built with HTML, JavaScript, and Bootstrap 4. Uses FakeStoreAPI for product data.
-
- ![](online shopping.png)
-
+A front-end e-commerce showcase built with HTML, JavaScript, and Bootstrap 4. Uses FakeStoreAPI for product data.![](online shopping.png)
+  ![](online shopping.png)
 ## ✅ Key Features
 
 - **Dynamic Category Filtering:** Fetches categories and products; filter via dropdown or nav links.
